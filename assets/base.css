@@ -1731,10 +1731,11 @@ input[type='checkbox'] {
 .announcement-bar {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
+  display: block;
 }
 
 .announcement-bar__link {
-  display: block;
+  /* display: block; */
   width: 100%;
   padding: 1rem 2rem;
   text-decoration: none;
