@@ -1805,14 +1805,12 @@ input[type='checkbox'] {
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
   background-color: rgb(var(--color-background));
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
 @media screen and (min-width: 990px) {
   .header {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
   }
 
   .header--has-menu:not(.header--middle-left) {
@@ -1854,6 +1852,7 @@ input[type='checkbox'] {
 .header__heading {
   margin: 0;
   line-height: 0;
+  float: left;
 }
 
 .header > .header__heading-link {
@@ -2083,7 +2082,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 
 /* Header menu */
 .header__inline-menu {
-  margin-left: -1.2rem;
+  text-align: right;
   grid-area: navigation;
   display: none;
 }
@@ -2116,7 +2115,9 @@ details[open] > .header__icon--menu .icon-hamburger {
 }
 
 .header__menu-item {
-  padding: 1.2rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
