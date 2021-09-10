@@ -3,7 +3,7 @@
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#121212",
     "colors_accent_2": "#334FB4",
-    "colors_text": "#a42323",
+    "colors_text": "#373d3f",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
@@ -23,8 +23,8 @@
             "type": "announcement",
             "settings": {
               "text": "WELCOME TO OUR STORE",
-              "color_scheme": "inverse",
-              "link": "shopify:\/\/products\/ghost-princess"
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections"
             }
           }
         },
