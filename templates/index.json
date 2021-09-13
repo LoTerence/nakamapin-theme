@@ -3,10 +3,10 @@
     "163123164198c6b12f": {
       "type": "homepage-collection",
       "settings": {
-        "title": "",
+        "title": "hello",
         "collection": "frontpage",
         "products_to_show": 48,
-        "show_view_all": false,
+        "show_view_all": true,
         "swipe_on_mobile": false,
         "image_ratio": "square",
         "show_secondary_image": true,
