@@ -19,9 +19,9 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "WELCOME TO OUR STORE",
-          "color_scheme": "inverse",
-          "link": "shopify:\/\/collections"
+          "text": "Bakugo and Suneater MHA drop out now!",
+          "color_scheme": "accent-1",
+          "link": ""
         }
       },
       "header": {
