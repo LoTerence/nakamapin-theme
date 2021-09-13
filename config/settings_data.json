@@ -19,9 +19,6 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "WELCOME TO OUR STORE",
-          "color_scheme": "inverse",
-          "link": "shopify:\/\/collections" 
         }
       },
       "header": {
@@ -79,7 +76,6 @@
         "announcement-bar": {
           "type": "announcement-bar",
           "settings": {
-            "color_scheme": "background-1"
           }
         }
       }
