@@ -13,7 +13,7 @@
     top: 4px;
 }
 .header-search__wrapper input {
-    background: none;
+    /* background: none; */
     border: none;
     outline: none;
     width: 28px;
@@ -29,6 +29,7 @@
     transition: all 0.6s ease;
     cursor: pointer;
     color: white;
+    z-index: 10;
 }
 .header-search__wrapper input + div {
     position: relative;
@@ -49,6 +50,8 @@
     stroke-dashoffset: 271.908;
     stroke-dasharray: 59 212.908;
     transition: all 0.6s ease;
+    z-index: 20;
+    pointer-events: none;
 }
 .header-search__wrapper input:not(:placeholder-shown),
 .header-search__wrapper input:focus {
@@ -60,6 +63,7 @@
 .header-search__wrapper input:focus + div svg {
     stroke-dasharray: 150 212.908;
     stroke-dashoffset: 300;
+    z-index: 20;
 }
 ::selection {
     background: rgba(255, 255, 255, 0.2);

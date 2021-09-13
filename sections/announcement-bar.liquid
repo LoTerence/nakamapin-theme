@@ -53,7 +53,7 @@
     <!-- Search button -->
     <div class="header-search__wrapper">
       <form action="{{ routes.search_url }}" method="get" role="search">
-        <input type="search" placeholder=" " value="{{ search.terms | escape }}" name="q">
+        <input class="announcement-bar__search-color" type="search" placeholder=" " value="{{ search.terms | escape }}" name="q">
         <div >
           <svg>
             <use xlink:href="#path">
