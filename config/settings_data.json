@@ -15,6 +15,7 @@
     "social_pinterest_link": "pinterest.com\/nakamapin",
     "social_instagram_link": "instagram.com\/nakamapin",
     "favicon": "shopify:\/\/shop_images\/Nakama_pin.png",
+    "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

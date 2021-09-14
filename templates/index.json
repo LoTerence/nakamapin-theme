@@ -60,10 +60,50 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1631645913c3644217": {
+      "type": "collage",
+      "blocks": {
+        "1631645913c3644217-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "haikyuu",
+            "image_padding": false,
+            "color_scheme": "accent-2"
+          }
+        },
+        "218fc35a-cb9b-4f62-ab54-b1adc9d0cfed": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "9f407014-b2ff-4d47-993b-872d9ec20330": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631645913c3644217-2",
+        "218fc35a-cb9b-4f62-ab54-b1adc9d0cfed",
+        "9f407014-b2ff-4d47-993b-872d9ec20330"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
     "163164196053b08870",
-    "163123164198c6b12f"
+    "163123164198c6b12f",
+    "1631645913c3644217"
   ]
 }
