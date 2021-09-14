@@ -171,7 +171,7 @@
 }
 
 .card-information__wrapper > .price {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-base-accent-2));
 }
 
 .card-information__wrapper > .rating {
@@ -271,7 +271,7 @@
   }
 
   .card-information__text:hover {
-    color:aqua
+    color: rgba(var(--color-foreground), 0.75);
   }
 
   .card--search img {
