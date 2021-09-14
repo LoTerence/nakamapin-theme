@@ -75,17 +75,17 @@
         "218fc35a-cb9b-4f62-ab54-b1adc9d0cfed": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "heroes",
             "image_padding": false,
-            "color_scheme": "background-1"
+            "color_scheme": "accent-2"
           }
         },
         "9f407014-b2ff-4d47-993b-872d9ec20330": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "ddkinz-chibis",
             "image_padding": false,
-            "color_scheme": "background-1"
+            "color_scheme": "accent-2"
           }
         }
       },
