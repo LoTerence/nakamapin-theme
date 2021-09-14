@@ -6,24 +6,24 @@
         "163164196053b08870-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Welcome to our store!",
             "heading_size": "medium"
           }
         },
         "163164196053b08870-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Check out our collections for your #1 anime! Grab your favorite pins before theyre gone!"
           }
         },
         "163164196053b08870-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_1": "SHOP COLLECTIONS",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": true,
+            "button_label_2": "LATEST DROP",
+            "button_link_2": "shopify:\/\/collections\/new",
             "button_style_secondary_2": false
           }
         }
