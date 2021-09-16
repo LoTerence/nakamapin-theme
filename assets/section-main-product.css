@@ -50,6 +50,17 @@
     width: calc(36% - 1rem / 2);
   }
 }
+/* Add to cart button custom style */
+.add-to-cart-btn {
+  /* border: solid; */
+  border-radius: 2em;
+  box-shadow: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  border-color: rgb(var(--color-base-accent-2));
+  background-color: rgba(var(--color-base-accent-2), 0.85);
+}
 
 /* Dynamic checkout */
 
@@ -261,6 +272,10 @@ a.product__text {
 
 .product .price {
   align-items: flex-start;
+  color: rgb(var(--color-base-accent-2));
+  font-weight: 700;
+  justify-content: flex-start;
+  font-size: large;
 }
 
 .product .price--on-sale dl {

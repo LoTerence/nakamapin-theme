@@ -98,6 +98,7 @@
   color: rgba(var(--color-foreground), 0.7);
 }
 
-.product__info-wrapper .price {
-  color: var(--color-base-accent-2)
-}
+/* .product__info-wrapper .price {
+  color: rgb(var(--color-base-accent-2));
+  font-weight: 700;
+} */
