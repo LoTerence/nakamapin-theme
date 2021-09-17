@@ -43,6 +43,11 @@ class CartItems extends HTMLElement {
         selector: '.shopify-section'
       },
       {
+        id: 'cart-header-link',
+        section: 'cart-header-link',
+        selector: '.shopify-section'
+      },
+      {
         id: 'cart-live-region-text',
         section: 'cart-live-region-text',
         selector: '.shopify-section'
