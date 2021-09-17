@@ -348,8 +348,7 @@
             <span>{{ 'templates.cart.cart' | t }}</span>
             <span class="cartCost hidden-count">
               (
-              <!-- <span class="money">{{ cart.total_price | money_with_currency }}</span> -->
-              <span class="money">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
+              <span class="money">{{ cart.total_price | money_with_currency }}</span>
               )
             </span>
           </a>
