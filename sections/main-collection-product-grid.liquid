@@ -12,7 +12,7 @@
 
 {%- assign sort_by = collection.sort_by | default: collection.default_sort_by -%}
 
-<div class="page-width collection-filters" id="main-collection-filters" data-id="{{ section.id }}">
+<div class="wrapper page-width collection-filters" id="main-collection-filters" data-id="{{ section.id }}">
   {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
     {%- assign total_active_values = 0 -%}
 
@@ -460,7 +460,7 @@
 <div id="CollectionProductGrid">
   {%- paginate collection.products by section.settings.products_per_page -%}
     {%- if collection.products.size == 0 -%}
-      <div class="collection collection--empty page-width" id="main-collection-product-grid" data-id="{{ section.id }}">
+      <div class="wrapper collection collection--empty page-width" id="main-collection-product-grid" data-id="{{ section.id }}">
         <div class="loading-overlay"></div>
 
         <p class="collection-product-count light" role="status">
@@ -479,7 +479,7 @@
         </div>
       </div>
     {%- else -%}
-      <div class="collection page-width">
+      <div class="wrapper collection page-width">
         <div class="loading-overlay"></div>
 
         <ul id="main-collection-product-grid" data-id="{{ section.id }}" class="
