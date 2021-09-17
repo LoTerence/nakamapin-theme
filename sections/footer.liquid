@@ -16,7 +16,7 @@
 
 <footer class="footer color-{{ section.settings.color_scheme }}">
   {%- if section.blocks.size > 0 or section.settings.newsletter_enable or section.settings.show_social -%}
-    <div class="footer__content-top page-width">
+    <div class="wrapper footer__content-top page-width">
       {%- if section.blocks.size > 0 -%}
         {%- liquid
           if section.blocks.size == 9
@@ -203,7 +203,7 @@
   {%- endif -%}
 
   <div class="footer__content-bottom">
-    <div class="footer__content-bottom-wrapper page-width">
+    <div class="wrapper footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
           <noscript>
