@@ -3,11 +3,32 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "image_ratio": "square"
+        "title": "Collections",
+        "sort": "products_high",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "image_padding": false
+      }
+    },
+    "16320782411e7ff0a6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW",
+        "collection": "new",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16320782411e7ff0a6"
   ]
 }
