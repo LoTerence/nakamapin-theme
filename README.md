@@ -1,3 +1,9 @@
+# Nakama Pin Shopify Theme
+
+This is a custom made shopify theme for my online store: nakamapin.com
+I forked the Dawn theme from Shopify with the latest features, and customized it with styling that fits the business's motif. 
+Below you can find more information about the Dawn theme as well as how to fork it and run it on your own development environment. 
+
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
