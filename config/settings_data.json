@@ -20,9 +20,9 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "New Spirited Away drops out now!",
+          "text": "Black Friday sale is on now!! 30% off most items",
           "color_scheme": "accent-1",
-          "link": "shopify:\/\/collections\/new"
+          "link": "shopify:\/\/collections\/sale"
         }
       },
       "header": {
