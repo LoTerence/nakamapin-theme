@@ -20,7 +20,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "Black Friday sale is on now!! 30% off most items",
+          "text": "Orders over $60 gets a free pin! 30% off most items",
           "color_scheme": "accent-1",
           "link": "shopify:\/\/collections\/sale"
         }
