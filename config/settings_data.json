@@ -20,7 +20,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "Orders over $60 gets a free pin! Last day of sale is today!",
+          "text": "Orders over $60 gets a free pin! Sale ends tonight at midnight",
           "color_scheme": "accent-1",
           "link": "shopify:\/\/collections\/sale"
         }
