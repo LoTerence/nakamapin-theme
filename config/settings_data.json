@@ -20,9 +20,9 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "Orders over $60 gets a free pin! Sale ends tonight at midnight",
+          "text": "Christmas blind set out today!",
           "color_scheme": "accent-1",
-          "link": "shopify:\/\/collections\/sale"
+          "link": "shopify:\/\/collections\/new"
         }
       },
       "header": {
