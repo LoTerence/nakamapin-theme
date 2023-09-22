@@ -20,7 +20,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "",
+          "text": "All One Piece Pins in stock are 20% off on orders of $30+! (Preorders Excluded)",
           "color_scheme": "accent-1",
           "link": "shopify:\/\/collections\/new"
         }
