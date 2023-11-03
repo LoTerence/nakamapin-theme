@@ -20,7 +20,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "",
+          "text": "Weekend Special 20% Discount on all Ghib Pins!!",
           "color_scheme": "accent-1",
           "link": "shopify:\/\/collections\/new"
         }
