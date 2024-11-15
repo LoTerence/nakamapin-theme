@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
@@ -10,25 +19,25 @@
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
     "page_width": "1200",
-    "social_twitter_link": "twitter.com\/nakamapin",
-    "social_facebook_link": "facebook.com\/nakamapin",
-    "social_pinterest_link": "pinterest.com\/nakamapin",
-    "social_instagram_link": "instagram.com\/nakamapin",
-    "favicon": "shopify:\/\/shop_images\/Nakama_pin1.png",
+    "social_twitter_link": "twitter.com/nakamapin",
+    "social_facebook_link": "facebook.com/nakamapin",
+    "social_pinterest_link": "pinterest.com/nakamapin",
+    "social_instagram_link": "instagram.com/nakamapin",
+    "favicon": "shopify://shop_images/Nakama_pin1.png",
     "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "Cyber Sale 10-35% Discount (11\/17 - 11\/30). Certain Products are excluded from discount.",
+          "text": "Cyber Sale 10-40% Discount (11/15 - 11/30). Certain Products are excluded from discount.",
           "color_scheme": "accent-1",
-          "link": "shopify:\/\/collections\/new"
+          "link": "shopify://collections/new"
         }
       },
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/weblogo2.jpg",
+          "logo": "shopify://shop_images/weblogo2.jpg",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -61,15 +70,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "3acfba32-89f3-4377-ae20-cbb9abc48475": {
-        "type": "shopify:\/\/apps\/order-limits-minmaxify\/blocks\/app-embed-block\/3acfba32-89f3-4377-ae20-cbb9abc48475",
+        "type": "shopify://apps/order-limits-minmaxify/blocks/app-embed-block/3acfba32-89f3-4377-ae20-cbb9abc48475",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -109,13 +115,11 @@
           "blocks": {
             "menu": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
