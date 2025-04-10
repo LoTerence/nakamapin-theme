@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "163164196053b08870": {
@@ -20,10 +29,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "SHOP SALES",
-            "button_link_1": "shopify:\/\/collections\/sale",
+            "button_link_1": "shopify://collections/sale",
             "button_style_secondary_1": true,
             "button_label_2": "LATEST DROP",
-            "button_link_2": "shopify:\/\/collections\/new",
+            "button_link_2": "shopify://collections/new",
             "button_style_secondary_2": false
           }
         }
@@ -34,8 +43,8 @@
         "163164196053b08870-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2108.JPG",
-        "image_2": "shopify:\/\/shop_images\/IMG_2264.jpg",
+        "image": "shopify://shop_images/2C3E0120-39AA-4E4A-B70E-A605B366FEA7.jpg",
+        "image_2": "shopify://shop_images/IMG_5220.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
