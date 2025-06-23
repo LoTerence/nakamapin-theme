@@ -29,7 +29,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "Cyber Sale STARTING TODAY 10-40% Discount (11/15 - 11/30). Certain Products are excluded from discount.",
+          "text": "",
           "color_scheme": "accent-1",
           "link": "shopify://collections/new"
         }
