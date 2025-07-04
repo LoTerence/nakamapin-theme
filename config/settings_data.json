@@ -29,7 +29,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "text": "",
+          "text": "Build your hero lineup: 40% OFF MHA pins with $40+ purchase!",
           "color_scheme": "accent-1",
           "link": "shopify://collections/new"
         }
